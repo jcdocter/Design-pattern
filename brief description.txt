@@ -1,0 +1,17 @@
+- Your choice of pattern
+my chossen pattern was the command pattern
+
+- What resources you used to implement it
+https://hku.instructure.com/courses/1449/files/folder/Slides?preview=28478
+http://gameprogrammingpatterns.com/command.html
+https://www.youtube.com/watch?v=UoNumkMTx-U
+https://www.youtube.com/watch?v=LRZ1cuXiXTI
+https://www.youtube.com/watch?v=wbK8e7YqweA
+https://www.youtube.com/watch?v=nW2ahdZojho
+
+- How the implementation went
+the implementation went a little stif and i think that it isn't implemented as is should. On the other hand i'm motivated to do 
+more reseacrh on this subject. While i was working on the design pattern, i had no time to refactor my code. 
+
+- Did you deviate from any example/resource implementation? If so, why?
+just a little because i tried to work with a input system and here for i needed to try different things.
