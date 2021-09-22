@@ -15,3 +15,11 @@ more reseacrh on this subject. While i was working on the design pattern, i had 
 
 - Did you deviate from any example/resource implementation? If so, why?
 just a little because i tried to work with a input system and here for i needed to try different things.
+
+files i made/changed:
+                - playerMovement.cs
+                - Icommand.cs
+                - IGameObjectCommand.cs
+                - InputHandler.cs
+                - GameManager.cs
+                - JumpCommand.cs
